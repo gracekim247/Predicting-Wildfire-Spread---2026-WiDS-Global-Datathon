@@ -1,0 +1,1 @@
+# Predicting-Wildfire-Spread---2026-WiDS-Global-Datathon
